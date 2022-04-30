@@ -31,6 +31,10 @@
 # ⭐仓库状态
 
 <div align="center">
+<img src="https://img.shields.io/github/languages/code-size/PDPENG/java-tech" alt="code-size"> <img src="https://img.shields.io/github/languages/count/PDPENG/java-tech?color=blueviolet" alt="languages"> <img src="https://img.shields.io/bitbucket/issues-raw/PDPENG/java-tech?color=red" alt="issues"> <img src="https://img.shields.io/github/stars/PDPENG/java-tech?color=yellow" alt="star"> <img src="https://img.shields.io/bitbucket/pr-raw/PDPENG/java-tech?color=success" alt="pr"> 
+</div>
+
+<div align="center">
 <a href="https://blog.csdn.net/m0_51269961"><img src="https://api.star-history.com/svg?repos=PDPENG/java-tech&type=Date" alt="github-star-history"></a>
 </div>
 
