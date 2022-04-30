@@ -1,4 +1,4 @@
--- 基于mysql
+-- 基于 mysql
 
 CREATE DATABASE IF NOT EXISTS demo1; # 避免警告信息
 
