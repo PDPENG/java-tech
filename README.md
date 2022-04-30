@@ -12,7 +12,7 @@
 
 # 💁个人简介
 
-杰森目前计算机专业在读，热衷 IT 技术，非常愿意与同行交流，不断接触前沿领域内容。经常在各大论坛中分享自己对于一些新奇事务以及学习经验的小小看法，例如：`阿里云`、`CSDN`、`51CTO`
+杰森目前计算机专业在读，热衷 IT 技术，非常愿意与同行交流，不断接触前沿领域内容。经常在各大论坛中分享自己对于一些前沿技术以及学习经验的小小看法，例如：`阿里云`、`CSDN`、`51CTO`
 
 <div align="center">
 <a href="https://developer.aliyun.com/profile/expert/mbfq4ahxthwea" target="_blank"><img src="https://img.shields.io/badge/%E9%98%BF%E9%87%8C%E4%BA%91-%E4%B8%93%E5%AE%B6%E5%8D%9A%E4%B8%BB-orange" alt="aliyun"></a> <a href="https://blog.csdn.net/m0_51269961"><img src="https://img.shields.io/badge/CSDN-%E5%85%A8%E6%A0%88%E9%A2%86%E5%9F%9F%E6%96%B0%E6%98%9F%E5%88%9B%E4%BD%9C%E8%80%85-red" alt="csdn"></a> <a href="https://blog.51cto.com/jasoncoding"><img src="https://img.shields.io/badge/51CTO-%E5%8D%9A%E5%AE%A2%E4%B8%93%E5%AE%B6-green" alt="51cto"></a>
@@ -28,7 +28,7 @@
 <img src="https://user-images.githubusercontent.com/86602255/166093155-d03ac762-59f5-4b91-92a2-995546c61f55.png" alt="wx" width="280">
 </div>
 
-# 仓库状态
+# ⭐仓库状态
 
 <div align="center">
 <a href="https://blog.csdn.net/m0_51269961"><img src="https://api.star-history.com/svg?repos=PDPENG/java-tech&type=Date" alt="github-star-history"></a>
