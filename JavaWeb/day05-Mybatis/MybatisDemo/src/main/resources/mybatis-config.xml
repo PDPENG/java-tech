@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+<!--    起别名-->
+    <typeAliases>
+        <package name="com.jason.pojo"/>
+    </typeAliases>
+
+
+<!--    多数据池环境配置-->
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+<!--连接信息-->
+                <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
+                <property name="url" value="jdbc:mysql:///mybatis?useSSL=false"/>
+                <property name="username" value="username"/>
+                <property name="password" value="password"/>
+            </dataSource>
+        </environment>
+    </environments>
+    <mappers>
+<!--加载sql映射文件-->
+        <mapper resource="com/jason/mapper/UserMapper.xml"/>
+<!--        mapper 代理 包扫描方式-->
+<!--        <package name="com.jason.mapper"/>-->
+    </mappers>
+</configuration>
